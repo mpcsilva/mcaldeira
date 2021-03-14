@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
       alt="aws"
       width="40"
       height="40"
