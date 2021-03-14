@@ -11,14 +11,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpcsilva&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=mpcsilva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -140,4 +140,5 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mpcsilva/">LinkedIn</a>.
+- 🐦 Following me on <a href="https://twitter.com/o_mpsilva/">Twitter</a>.
 - 🐦 Following me on <a href="https://twitter.com/o_mpsilva/">Twitter</a>.
