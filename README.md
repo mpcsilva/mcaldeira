@@ -46,7 +46,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
       alt="docker"
       width="40"
       height="40"
@@ -57,7 +57,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"
       alt="javascript"
       width="40"
       height="40"
