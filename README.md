@@ -28,7 +28,7 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Engineering do Brasil**.
-- 🌱 Learning more about and studying: **NodeJS and Java**.
+- 🌱 Learning more about and studying: **Java Development**.
 - 💙 Interests: games 👾, dogs.
 
 ### Languages and Tools
