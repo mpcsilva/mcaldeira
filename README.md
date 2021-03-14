@@ -28,8 +28,8 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Engineering do Brasil**.
-- 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**.
-- 💙 Interests: games 👾, cats (Loki 🐱).
+- 🌱 Learning more about and studying: **NodeJS and Java**.
+- 💙 Interests: games 👾, dogs.
 
 ### Languages and Tools
 
