@@ -139,6 +139,6 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mpcsilva/">LinkedIn</a>.
-- 🐦 Following me on <a href="https://twitter.com/o_mpsilva/">Twitter</a>.
-- 🌏 Following me on <a href="https://mpcsilva.github.io/">Portfólio</a>.
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mpcsilva/" target="_blank">LinkedIn</a>.
+- 🐦 Following me on <a href="https://twitter.com/o_mpsilva/" target="_blank">Twitter</a>.
+- 🌏 Following me on <a href="https://mpcsilva.github.io/" target="_blank">Portfólio</a>.
