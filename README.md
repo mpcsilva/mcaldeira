@@ -89,7 +89,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -97,7 +97,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -105,7 +105,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -121,7 +121,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
       alt="react"
       width="40"
       height="40"
@@ -129,7 +129,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
       alt="typescript"
       width="40"
       height="40"
