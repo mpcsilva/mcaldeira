@@ -21,8 +21,6 @@
   </a>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Engineering do Brasil**.
