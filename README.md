@@ -122,23 +122,6 @@
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/mpcsilva/" target="_blank">LinkedIn</a>.
 - 🐦 Following me on <a href="https://twitter.com/o_mpsilva/" target="_blank">Twitter</a>.
 - 🌏 Following me on <a href="https://mpcsilva.github.io/" target="_blank">Portfólio</a>.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
  
 <div> 
   <a href="https://instagram.com/mpc_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
