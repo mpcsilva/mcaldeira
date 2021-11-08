@@ -129,7 +129,7 @@
   <a href="https://www.linkedin.com/in/mpcsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://api.whatsapp.com/send?phone=5511952203218&text=Ol%C3%A1%20Marcos!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
         <a href=""><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-        <a href="mpcsilva.github.io"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org" target="_blank"></a>
+        <a href="https://mpcsilva.github.io/#"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org" target="_blank"></a>
 
   
  
