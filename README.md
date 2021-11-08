@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm currently working full-time at **Engineering do Brasil**.
 - 🌱 Learning more about and studying: **Java Development**.
-- :music
+- 🎶 
 
 ### Languages and Tools
 
